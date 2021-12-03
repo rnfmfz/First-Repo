@@ -1,1 +1,2 @@
-# First-Repo
+# First Project!
+This was my first ever project in my IST coding with Professor Mike Hilgers. The language used was C# in Visual Studio, and I was tasked with making a Shooting Gallery game. I chose The Walking Dead theme, where I made 7 picture boxes display 18 different images randomly using a rng, created a hero/villain system, a point system, and used multiple timers to help the game run (and count down to 0-it has to be somewhat of a challenge, right?)
